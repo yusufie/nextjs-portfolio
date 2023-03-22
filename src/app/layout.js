@@ -1,6 +1,7 @@
 import './globals.css'
 // import ParticleBackground from "./ParticleBackground";
 
+
 import dynamic from 'next/dynamic';
 
 const DynamicParticleBackground = dynamic(() => import('./ParticleBackground'), {
