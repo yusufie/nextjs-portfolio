@@ -1,0 +1,11 @@
+.skillCardImage {
+    height: 4rem;
+    filter: hue-rotate(0deg);
+	cursor: pointer;
+	transition: all .8s;
+}
+
+.skillCardImage:hover {
+    filter: hue-rotate(240deg);
+    transform: scale(1.3);
+}

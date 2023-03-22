@@ -1,0 +1,67 @@
+{
+    "profiles": [
+      {
+        "id": 1,
+        "url": "https://www.linkedin.com/in/yusufaknar/",
+        "logo": "./logos/linkedin-logo.svg",
+        "name": "LinkedIn",
+        "alt": "linkedin"
+      },
+      {
+        "id": 2,
+        "url": "https://github.com/yusufie",
+        "logo": "./logos/github-logo.svg",
+        "name": "GitHub",
+        "alt": "Github"
+      },
+      {
+        "id": 3,
+        "url": "https://www.w3profile.com/yusufie",
+        "logo": "./logos/w3schools-logo.svg",
+        "name": "W3Schools",
+        "alt": "w3schools"
+      },
+      {
+        "id": 4,
+        "url": "https://www.freecodecamp.org/yusufie",
+        "logo": "./logos/freecodecamp-logo.svg",
+        "name": "freeCodeCamp",
+        "alt": "freecodecamp"
+      },
+      {
+        "id": 5,
+        "url": "https://www.hackerrank.com/yusufie",
+        "logo": "./logos/hackerrank-logo.svg",
+        "name": "HackerRank",
+        "alt": "hackerrank"
+      },
+      {
+        "id": 6,
+        "url": "https://coderbyte.com/profile/yusufie",
+        "logo": "./logos/coderbyte-logo.svg",
+        "name": "CoderByte",
+        "alt": "coderbyte"
+      },
+      {
+        "id": 7,
+        "url": "https://www.codewars.com/users/yusufie",
+        "logo": "./logos/codewars-logo.svg",
+        "name": "CodeWars",
+        "alt": "codewars"
+      },
+      {
+        "id": 8,
+        "url": "https://leetcode.com/yusufie/",
+        "logo": "./logos/leetcode-logo.svg",
+        "name": "LeetCode",
+        "alt": "leetcode"
+      },
+      {
+        "id": 9,
+        "url": "https://stackoverflow.com/users/19926018/yusufie",
+        "logo": "./logos/stackoverflow-logo.svg",
+        "name": "StackOverflow",
+        "alt": "stackoverflow"
+      }
+    ]
+}

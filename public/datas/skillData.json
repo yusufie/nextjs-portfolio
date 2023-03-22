@@ -1,0 +1,67 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "url": "https://www.w3schools.com/html/",
+      "logo": "./logos/html-logo.svg",
+      "name": "HTML",
+      "alt": "html"
+    },
+    {
+      "id": 2,
+      "url": "https://www.w3schools.com/css/",
+      "name": "CSS",
+      "logo": "./logos/css-logo.svg",
+      "alt": "Css"
+    },
+    {
+      "id": 3,
+      "url": "https://www.w3schools.com/js/",
+      "logo": "./logos/javascript-logo.svg",
+      "name": "JavaScript",
+      "alt": "Javascript"
+    },
+    {
+      "id": 4,
+      "url": "https://reactjs.org/",
+      "logo": "./logos/react-logo.svg",
+      "name": "React",
+      "alt": "React"
+    },
+    {
+      "id": 5,
+      "url": "https://sass-lang.com/",
+      "logo": "./logos/sass-logo.svg",
+      "name": "Sass",
+      "alt": "Sass"
+    },
+    {
+      "id": 6,
+      "url": "https://getbootstrap.com/",
+      "logo": "./logos/bootstrap-logo.svg",
+      "name": "Bootstrap",
+      "alt": "Bootstrap"
+    },
+    {
+      "id": 7,
+      "url": "https://tailwindcss.com/",
+      "logo": "./logos/tailwind-logo.svg",
+      "name": "Tailwind",
+      "alt": "Tailwind"
+    },
+    {
+      "id": 8,
+      "url": "https://git-scm.com/",
+      "logo": "./logos/git-logo.svg",
+      "name": "Git",
+      "alt": "Git"
+    },
+    {
+      "id": 9,
+      "url": "https://www.npmjs.com/",
+      "logo": "./logos/figma-logo.svg",
+      "name": "Figma",
+      "alt": "Figma"
+    }
+  ]
+}
