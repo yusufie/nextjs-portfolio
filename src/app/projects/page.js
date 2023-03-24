@@ -23,7 +23,7 @@ function Projects() {
   return (
 
     <section className="projects">
-      <h2 className="sectionTitle">Projects</h2>
+      <h1 className={styles.sectionTitle}>Projects</h1>
 
       <Swiper
         slidesPerView={3}
@@ -58,6 +58,7 @@ function Projects() {
         }}
 
         className={styles.swiper}
+
       >
 
         {projectData.projects.map((project) => (
@@ -94,7 +95,7 @@ function Projects() {
             </Tilt>
           </SwiperSlide>
         ))}
-        
+
       </Swiper>
     
 

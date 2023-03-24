@@ -1,3 +1,11 @@
+.sectionTitle {
+  font-size: 2rem;
+  text-align: center;
+  padding: 1em;
+  text-transform: uppercase;
+}
+
+
 /* swiper starts*/
 
 .swiper {
@@ -23,20 +31,10 @@
 	object-fit: cover;
   }
 
-  .swiper-button-next,
-  .swiper-button-prev {
-	color: aqua;
-  }
-
-  .swiper-pagination {
-	bottom: 0;
-  }
-
-  .swiper-pagination-bullet {
-	background: aqua;
-  }
-
 /* swiper ends*/
+
+
+
 
 
 /* 

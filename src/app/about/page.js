@@ -2,7 +2,7 @@ import React from 'react'
 
 import aboutData from "/public/datas/aboutData.json"
 
-// import styles from "../about/page.module.css"
+import styles from "./page.module.css"
 import "../globals.css"
 import Link from 'next/link';
 
@@ -13,7 +13,7 @@ function About() {
     <>
       <section className="about">
         <div className="sectionAbout">
-          <h2 className="sectionTitle">about</h2>
+          <h1 className={styles.sectionTitle}>about</h1>
 
           <div className="skillCard">
 

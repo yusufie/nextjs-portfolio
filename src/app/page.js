@@ -16,8 +16,8 @@ function Home() {
   return (
 
     <div style={homeStyle}>
-      <h1 style= {{fontSize: "3rem" }}>Hello World!</h1>
-      <h2 style= {{fontSize: "3rem" }}>I&apos;m Yusuf</h2>
+      <h1 style= {{fontSize: "4rem" }}>Hello World!</h1>
+      <h1 style= {{fontSize: "4rem" }}>I&apos;m Yusuf</h1>
     </div>
 
   );

@@ -9,3 +9,10 @@
     filter: hue-rotate(240deg);
     transform: scale(1.3);
 }
+
+.sectionTitle {
+    font-size: 4rem;
+    text-align: center;
+    padding: 1em;
+    text-transform: uppercase;
+  }
