@@ -11,7 +11,7 @@ const ParticleBackground = () => {
       connectParticles: true,
       responsive: [
         {
-          breakpoint: 375,
+          breakpoint: 425,
           options: {
             color: ["#fFF", "#FF0099", "#00ffff"],
             maxParticles: 43,
