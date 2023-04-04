@@ -1,4 +1,6 @@
 
+import styles from '/src/app/page.module.css';
+
 function Home() {
 
   const homeStyle = {
@@ -16,8 +18,8 @@ function Home() {
   return (
 
     <div style={homeStyle}>
-      <h1 style= {{fontSize: "4rem" }}>Hello World!</h1>
-      <h1 style= {{fontSize: "4rem" }}>I&apos;m Yusuf</h1>
+      <h1 className={styles.sectionTitle}>Hello World!</h1>
+      <h1 className={styles.sectionTitle}>I&apos;m Yusuf</h1>
     </div>
 
   );

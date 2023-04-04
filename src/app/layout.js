@@ -10,7 +10,7 @@ const DynamicParticleBackground = dynamic(() => import('./ParticleBackground'), 
 
 export const metadata = {
   title: 'Portfolio',
-  description: 'Next.js',
+  description: 'Portfolio - Next.js',
 }
 
 export default function RootLayout({ children }) {

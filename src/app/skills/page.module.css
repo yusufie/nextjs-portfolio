@@ -1,6 +1,12 @@
 .sectionTitle {
-  font-size: 20px;
+  font-size: 3rem;
   text-align: center;
   padding: 1em;
   text-transform: uppercase;
+}
+
+@media screen and (max-width: 768px) {
+  .sectionTitle {
+      font-size: 2rem;
+  }
 }

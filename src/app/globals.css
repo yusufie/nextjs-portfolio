@@ -91,6 +91,15 @@ h1 {
   font-size: 2.5rem;
   /* transition: transform 0.7s ease; */
 }
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+  
+}
+
+
 h2 {
   color: #00ffff;
   letter-spacing: 0.3rem;
@@ -366,3 +375,17 @@ transform: scale(1.5);
 }
 
 /* swiper ends */
+
+
+/* media query starts */
+
+@media screen and (max-width: 768px) {
+  
+  .glass-morphism .btn {
+    width: 12rem;
+    height: 2rem;
+  }
+  
+}
+
+/* media query ends */
