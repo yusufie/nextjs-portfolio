@@ -1,11 +1,19 @@
 
 .sectionTitle {
-    color: #00ffff;
-    padding-top: 2rem;
-    letter-spacing: 0.3rem;
-    font-size: 4rem;
-    /* transition: transform 0.7s ease; */
-  }
+  font-size: 3rem;
+  color: #00ffff;
+  text-align: center;
+  padding: 1em;
+  padding-top: 2rem;
+  letter-spacing: 0.3rem;
+  /* text-transform: uppercase; */
+  /* transition: transform 0.7s ease; */
+}
+
+.sectionTitle:hover {
+  color: #ff0099;
+  /* transform: scale(1.05); */
+}
   
   @media screen and (max-width: 768px) {
     .sectionTitle {

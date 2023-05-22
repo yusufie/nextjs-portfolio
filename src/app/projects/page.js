@@ -14,6 +14,7 @@ import "swiper/css/pagination";
 import "swiper/css/navigation";
 
 import styles from "./page.module.css";
+import "./page.css"
 import "../globals.css";
 import Link from "next/link";
 
@@ -92,7 +93,9 @@ function Projects() {
             */}
 
             </div>
+
             </Tilt>
+            
           </SwiperSlide>
         ))}
 

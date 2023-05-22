@@ -18,8 +18,12 @@ function Home() {
   return (
 
     <div style={homeStyle}>
-      <h1 className={styles.sectionTitle}>Hello World!</h1>
-      <h1 className={styles.sectionTitle}>I&apos;m Yusuf</h1>
+      <h1 className={styles.sectionTitle}>
+      Hello World!
+      <br />
+      <br />
+      I&apos;m Yusuf
+      </h1>
     </div>
 
   );

@@ -1,0 +1,26 @@
+.swiper-button-next,
+.swiper-button-prev {
+color: aqua;
+transform: scale(1.5);
+}
+
+.swiper-pagination {
+  position: relative;
+  text-align: center;
+  transition: .3s opacity;
+  transform: translate3d(0,0,0);
+  z-index: 10;
+}
+
+.swiper-pagination-bullet {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background-color: aqua;
+  opacity: 0.5;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 1;
+}

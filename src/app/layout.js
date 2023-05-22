@@ -1,8 +1,8 @@
 import './globals.css'
 // import ParticleBackground from "./ParticleBackground";
 
-import Link from 'next/link';
 import dynamic from 'next/dynamic';
+import Navbar from '@/components/Navbar';
 
 const DynamicParticleBackground = dynamic(() => import('./ParticleBackground'), {
   ssr: false,
@@ -19,23 +19,7 @@ export default function RootLayout({ children }) {
       <body>
         {children}
 
-        <div className="glass-morphism">
-          <div className="btn" id="btnHome">
-            <Link href="/">Home</Link>
-          </div>
-
-          <div className="btn" id="btnProjects">
-            <Link href="/projects">Projects</Link>
-          </div>
-
-          <div className="btn" id="btnSkills">
-            <Link href="/skills">Skills</Link>
-          </div>
-
-          <div className="btn" id="btnAbout">
-            <Link href="/about">About</Link>
-          </div>
-        </div>
+        <Navbar />
 
         <div className="backgroundImage"></div>
         {/* <ParticleBackground /> */}

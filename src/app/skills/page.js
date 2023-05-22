@@ -10,22 +10,22 @@ function Skills() {
   return (
     <>
     <section className="skills">
-      <div class="sectionSkills">
+      <div className={styles.sectionSkills}>
         <h1 className={styles.sectionTitle}>skills</h1>        
 
-        <div class="skillCard">
-          <div className="languageCard">
+        <div className={styles.skillCard}>
+          <div className={styles.languageCard}>
             {skillData.skills.map((skill) => (
               <Link
                 key={skill.id}
                 href={skill.url}
                 target="_blank"
-                className="skillsItem"
+                className={styles.skillsItem}
               >
                 <img
                   src={skill.logo}
                   alt={skill.alt}
-                  className="skillCardImage"
+                  className={styles.skillCardImage}
                 />
               </Link>
             ))}

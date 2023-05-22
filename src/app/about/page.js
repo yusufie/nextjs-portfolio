@@ -12,18 +12,18 @@ function About() {
   return (
     <>
       <section className="about">
-        <div className="sectionAbout">
+        <div className={styles.sectionAbout}>
           <h1 className={styles.sectionTitle}>about</h1>
 
-          <div className="skillCard">
+          <div className={styles.skillCard}>
 
-            <div className="profileCard">
+            <div className={styles.profileCard}>
               {aboutData.profiles.map((profile) => (
-                <Link key={profile.id} href={profile.url} target="_blank" className="skillsItem">
+                <Link key={profile.id} href={profile.url} target="_blank" className={styles.skillsItem}>
                   <img
                     src={profile.logo}
                     alt={profile.alt}
-                    className="skillCardImage"
+                    className={styles.skillCardImage}
                   />
                 </Link>
               ))}
