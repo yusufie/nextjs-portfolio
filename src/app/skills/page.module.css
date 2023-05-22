@@ -1,8 +1,13 @@
 .sectionSkills {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-items: center;
+  justify-content: space-between;
+  /* align-content: center; */
+  /* align-items: center; */
+  margin: 1rem;
+  margin-left: 3rem;
 }
 
 .sectionTitle {
@@ -21,18 +26,6 @@
   /* transform: scale(1.05); */
 }
 
-.languageCard {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-  align-items: center;
-  margin: 1rem;
-}
-
-.skillCard {
-  margin-left: 3rem;
-}
-
 .skillCardImage {
   height: 4rem;
   filter: hue-rotate(0deg);
@@ -49,8 +42,20 @@
   padding: 0.5rem;
 }
 
+/* Media Queries Starts */
+
 @media screen and (max-width: 768px) {
   .sectionTitle {
     font-size: 2rem;
+    padding-top: 1rem;
   }
 }
+
+@media (min-width: 1200px) {
+  .sectionSkills {
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+  }
+}
+/* Media Queries Ends */

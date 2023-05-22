@@ -50,8 +50,13 @@
     padding: 0.5rem;
   }
 
-@media screen and (max-width: 768px) {
-  .sectionTitle {
-    font-size: 2rem;
+/* Media Queries Starts */
+
+  @media screen and (max-width: 768px) {
+    .sectionTitle {
+      font-size: 2rem;
+      padding-top: 1rem;
+    }
   }
-}
+
+  /* Media Queries Ends */
