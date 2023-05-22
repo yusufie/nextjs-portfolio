@@ -135,7 +135,15 @@
 /* media query starts */
 
 @media screen and (max-width: 768px) {
-  
+	.glassMorphism {
+		margin-top: 1rem;
+	}
   }
+
+@media screen and (min-width: 768px) {
+	.glassMorphism {
+		margin-top: 10rem;
+	}
+}
 
 /* media query ends */
