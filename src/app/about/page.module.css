@@ -28,9 +28,6 @@
   justify-content: space-evenly;
   align-items: center;
   margin: 1rem;
-}
-
-.skillCard {
   margin-left: 3rem;
 }
 
@@ -49,6 +46,28 @@
 .skillsItem {
     padding: 0.5rem;
   }
+
+  /* iframe starts */
+
+  .skillCardWrapper {
+    position: relative;
+  }
+  
+  .previewOverlay {
+    position: absolute;
+    display: flex;
+    z-index: 1;
+    align-items: center;
+  }
+
+  .previewImage {
+    width: 22rem;
+    height: 11rem;
+    object-fit: contain;
+  }  
+
+/* iframe ends */
+
 
 /* Media Queries Starts */
 
