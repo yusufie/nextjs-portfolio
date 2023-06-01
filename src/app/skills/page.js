@@ -21,11 +21,14 @@ function Skills() {
                   target="_blank"
                   className={styles.skillsItem}
                 >
-                  <img
-                    src={skill.logo}
-                    alt={skill.alt}
-                    className={styles.skillCardImage}
-                  />
+              <div className={styles.skillCard}>
+                <img
+                  src={skill.logo}
+                  alt={skill.alt}
+                  className={styles.skillCardImage}
+                />
+                <span className={styles.skillName}>{skill.name}</span>
+              </div>
                 </Link>
               ))}
         </div>

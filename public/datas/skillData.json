@@ -5,14 +5,14 @@
       "url": "https://www.w3schools.com/html/",
       "logo": "./logos/html-logo.svg",
       "name": "HTML",
-      "alt": "html"
+      "alt": "HTML"
     },
     {
       "id": 2,
       "url": "https://www.w3schools.com/css/",
-      "name": "CSS",
       "logo": "./logos/css-logo.svg",
-      "alt": "Css"
+      "name": "CSS",
+      "alt": "CSS"
     },
     {
       "id": 3,
@@ -53,64 +53,64 @@
       "id": 8,
       "url": "https://nextjs.org/",
       "logo": "./logos/next-logo.svg",
-      "name": "nextjs",
-      "alt": "nextjs"
+      "name": "Next.js",
+      "alt": "Next.js"
     },
     {
       "id": 9,
-      "url": "https://redux.js.org/",
-      "logo": "./logos/redux-logo.svg",
-      "name": "redux",
-      "alt": "redux"
+      "url": "https://zustand-demo.pmnd.rs/",
+      "logo": "./logos/zustand-logo.png",
+      "name": "Zustand",
+      "alt": "Zustand"
     },
     {
       "id": 10,
       "url": "https://www.typescriptlang.org/",
       "logo": "./logos/typescript-logo.svg",
-      "name": "typescript",
-      "alt": "typescript"
+      "name": "Typescript",
+      "alt": "Typescript"
     },
     {
       "id": 11,
       "url": "https://nodejs.org/",
       "logo": "./logos/node-logo.svg",
-      "name": "nodejs",
-      "alt": "nodejs"
+      "name": "Node.js",
+      "alt": "Node.js"
     },
     {
       "id": 12,
       "url": "https://expressjs.com/",
       "logo": "./logos/expressjs-logo.svg",
-      "name": "expressjs",
-      "alt": "expressjs"
+      "name": "Express.js",
+      "alt": "Express.js"
     },
     {
       "id": 13,
       "url": "https://www.mongodb.com/",
       "logo": "./logos/mongodb-logo.svg",
-      "name": "mongodb",
-      "alt": "mongodb"
+      "name": "MongoDB",
+      "alt": "MongoDB"
     },
     {
       "id": 14,
       "url": "https://graphql.org/",
       "logo": "./logos/graphql-logo.svg",
-      "name": "graphql",
-      "alt": "graphql"
+      "name": "GraphQL",
+      "alt": "GraphQL"
     },
     {
       "id": 15,
       "url": "https://www.w3schools.com/sql/",
       "logo": "./logos/sql-logo.svg",
-      "name": "sql",
-      "alt": "sql"
+      "name": "SQL",
+      "alt": "SQL"
     },
     {
       "id": 16,
       "url": "https://www.postgresql.org/",
       "logo": "./logos/postgresql-logo.svg",
-      "name": "postgresql",
-      "alt": "postgresql"
+      "name": "PostgreSQL",
+      "alt": "PostgreSQL"
     },
     {
       "id": 17,
@@ -130,22 +130,22 @@
       "id": 19,
       "url": "https://www.npmjs.com/",
       "logo": "./logos/npm-logo.svg",
-      "name": "npm",
-      "alt": "npm"
+      "name": "Npm",
+      "alt": "Npm"
     },
     {
       "id": 20,
       "url": "https://www.postman.com/",
       "logo": "./logos/postman-logo.svg",
-      "name": "postman",
-      "alt": "postman"
+      "name": "Postman",
+      "alt": "Postman"
     },
     {
       "id": 21,
       "url": "https://code.visualstudio.com/",
       "logo": "./logos/vscode-logo.svg",
-      "name": "vscode",
-      "alt": "vscode"
+      "name": "VSCode",
+      "alt": "VSCode"
     }
   ]
 }
