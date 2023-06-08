@@ -56,14 +56,16 @@
   .previewOverlay {
     position: absolute;
     display: flex;
-    z-index: 1;
     align-items: center;
+    z-index: 3;
+    
   }
 
   .previewImage {
     width: 22rem;
     height: 11rem;
     object-fit: contain;
+    /* border-radius: 1rem; */
   }  
 
 /* iframe ends */

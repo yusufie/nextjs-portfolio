@@ -1,9 +1,11 @@
 "use client"
 import React, { useState } from 'react';
+import Image from 'next/image';
+import Link from 'next/link';
 import aboutData from '/public/datas/aboutData.json';
+
 import styles from './page.module.css';
 import '../globals.css';
-import Link from 'next/link';
 
 function About() {
   const [previewUrl, setPreviewUrl] = useState('');
@@ -30,16 +32,25 @@ function About() {
                     onMouseEnter={() => handleMouseEnter(profile.preview)}
                     onMouseLeave={handleMouseLeave}
                   >
-                    <img
+                    <Image
                       src={profile.logo}
                       alt={profile.alt}
+                      width={64}
+                      height={64}
                       className={styles.skillCardImage}
                     />
                     
                     {previewUrl === profile.preview && (
                       <div className={styles.previewOverlay}>
 
-                        <img src={profile.preview} className={styles.previewImage}/>
+                        <Image 
+                          src={profile.preview}
+                          alt={profile.alt}
+                          width={352}
+                          height={176}
+                          className={styles.previewImage}
+                          priority
+                          />
 
                       </div>
                     )}

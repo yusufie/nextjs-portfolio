@@ -3,147 +3,147 @@
     {
       "id": 1,
       "url": "https://www.w3schools.com/html/",
-      "logo": "./logos/html-logo.svg",
+      "logo": "/logos/html-logo.svg",
       "name": "HTML",
       "alt": "HTML"
     },
     {
       "id": 2,
       "url": "https://www.w3schools.com/css/",
-      "logo": "./logos/css-logo.svg",
+      "logo": "/logos/css-logo.svg",
       "name": "CSS",
       "alt": "CSS"
     },
     {
       "id": 3,
       "url": "https://www.w3schools.com/js/",
-      "logo": "./logos/javascript-logo.svg",
+      "logo": "/logos/javascript-logo.svg",
       "name": "JavaScript",
       "alt": "Javascript"
     },
     {
       "id": 4,
       "url": "https://tailwindcss.com/",
-      "logo": "./logos/tailwind-logo.svg",
+      "logo": "/logos/tailwind-logo.svg",
       "name": "Tailwind",
       "alt": "Tailwind"
     },
     {
       "id": 5,
       "url": "https://getbootstrap.com/",
-      "logo": "./logos/bootstrap-logo.svg",
+      "logo": "/logos/bootstrap-logo.svg",
       "name": "Bootstrap",
       "alt": "Bootstrap"
     },
     {
       "id": 6,
       "url": "https://sass-lang.com/",
-      "logo": "./logos/sass-logo.svg",
+      "logo": "/logos/sass-logo.svg",
       "name": "Sass",
       "alt": "Sass"
     },
     {
       "id": 7,
       "url": "https://reactjs.org/",
-      "logo": "./logos/react-logo.svg",
+      "logo": "/logos/react-logo.svg",
       "name": "React",
       "alt": "React"
     },
     {
       "id": 8,
       "url": "https://nextjs.org/",
-      "logo": "./logos/next-logo.svg",
+      "logo": "/logos/next-logo.svg",
       "name": "Next.js",
       "alt": "Next.js"
     },
     {
       "id": 9,
       "url": "https://zustand-demo.pmnd.rs/",
-      "logo": "./logos/zustand-logo.png",
+      "logo": "/logos/zustand-logo.png",
       "name": "Zustand",
       "alt": "Zustand"
     },
     {
       "id": 10,
       "url": "https://www.typescriptlang.org/",
-      "logo": "./logos/typescript-logo.svg",
+      "logo": "/logos/typescript-logo.svg",
       "name": "Typescript",
       "alt": "Typescript"
     },
     {
       "id": 11,
       "url": "https://nodejs.org/",
-      "logo": "./logos/node-logo.svg",
+      "logo": "/logos/node-logo.svg",
       "name": "Node.js",
       "alt": "Node.js"
     },
     {
       "id": 12,
       "url": "https://expressjs.com/",
-      "logo": "./logos/expressjs-logo.svg",
+      "logo": "/logos/expressjs-logo.svg",
       "name": "Express.js",
       "alt": "Express.js"
     },
     {
       "id": 13,
       "url": "https://www.mongodb.com/",
-      "logo": "./logos/mongodb-logo.svg",
+      "logo": "/logos/mongodb-logo.svg",
       "name": "MongoDB",
       "alt": "MongoDB"
     },
     {
       "id": 14,
       "url": "https://graphql.org/",
-      "logo": "./logos/graphql-logo.svg",
+      "logo": "/logos/graphql-logo.svg",
       "name": "GraphQL",
       "alt": "GraphQL"
     },
     {
       "id": 15,
       "url": "https://www.w3schools.com/sql/",
-      "logo": "./logos/sql-logo.svg",
+      "logo": "/logos/sql-logo.svg",
       "name": "SQL",
       "alt": "SQL"
     },
     {
       "id": 16,
       "url": "https://www.postgresql.org/",
-      "logo": "./logos/postgresql-logo.svg",
+      "logo": "/logos/postgresql-logo.svg",
       "name": "PostgreSQL",
       "alt": "PostgreSQL"
     },
     {
       "id": 17,
       "url": "https://git-scm.com/",
-      "logo": "./logos/git-logo.svg",
+      "logo": "/logos/git-logo.svg",
       "name": "Git",
       "alt": "Git"
     },
     {
       "id": 18,
       "url": "https://www.figma.com/",
-      "logo": "./logos/figma-logo.svg",
+      "logo": "/logos/figma-logo.svg",
       "name": "Figma",
       "alt": "Figma"
     },
     {
       "id": 19,
       "url": "https://www.npmjs.com/",
-      "logo": "./logos/npm-logo.svg",
+      "logo": "/logos/npm-logo.svg",
       "name": "Npm",
       "alt": "Npm"
     },
     {
       "id": 20,
       "url": "https://www.postman.com/",
-      "logo": "./logos/postman-logo.svg",
+      "logo": "/logos/postman-logo.svg",
       "name": "Postman",
       "alt": "Postman"
     },
     {
       "id": 21,
       "url": "https://code.visualstudio.com/",
-      "logo": "./logos/vscode-logo.svg",
+      "logo": "/logos/vscode-logo.svg",
       "name": "VSCode",
       "alt": "VSCode"
     }

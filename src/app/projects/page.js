@@ -1,12 +1,10 @@
 "use client"
-import React, { useRef, useState } from "react";
+import React from "react";
+import Link from "next/link";
+import Image from "next/image";
 import projectData from "/public/datas/projectData.json";
 
 import Tilt from 'react-tilt';
-
-// Import Swiper React components
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination, Navigation } from "swiper";
 
 // Import Swiper styles
 import "swiper/css";
@@ -16,7 +14,10 @@ import "swiper/css/navigation";
 import styles from "./page.module.css";
 import "./page.css"
 import "../globals.css";
-import Link from "next/link";
+
+// Import Swiper React components
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Pagination, Navigation } from "swiper";
 
 function Projects() {
 
@@ -65,32 +66,21 @@ function Projects() {
         {projectData.projects.map((project) => (
           <SwiperSlide className={styles.swiperSlide} key={project.id}>
 
-          <Tilt options={{ max: 25, perspective: 750, scale: 1.05, speed: 400, easing: "cubic-bezier(.02,.77,.43,.87)", transition: true, }}>
+          <Tilt options={{ max: 35, perspective: 1550, scale: 1.00, speed: 300, easing: "cubic-bezier(.06,.97,.63,.95)", transition: true, }}>
             <div className="projectCard">
 
-              <div className="projectCardImage">
+              <div className={styles.projectCardImage}>
                 <Link key={project.id} href={project.githubUrl} target="_blank" className="projectCardLink">
-                  <img src={project.image} alt={project.alt} className={styles.swiperSlideImg} />
-                </Link>
-              </div>
-            {/*
-              <div className="projectCardText">
-
-                <h3 className="projectCardTitle">{project.title}</h3>
-                <p className="projectCardDescription">{project.description}</p>
-
-                 <div className="projectCardLinks">
-                <Link key={project.id} href={project.githubUrl} target="_blank" className="projectCardLink">
-                  <img
-                    src={project.image}
-                    alt={project.alt}
-                    className={styles.swiperSlideImg}
+                  <Image 
+                  src={project.image} 
+                  alt={project.alt} 
+                  width={320} 
+                  height={288} 
+                  className={styles.swiperSlideImg} 
+                  priority
                   />
                 </Link>
-                </div> 
-
-              </div> 
-            */}
+              </div>
 
             </div>
 

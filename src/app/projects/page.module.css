@@ -6,13 +6,12 @@
   }
 
   .swiperSlide {
-	text-align: center;
-	font-size: 1rem;
-	background: #fff;
-	display: flex;
+  display: flex;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 	background: none;
+	font-size: 1rem;
 	padding: 1rem; 
   }
 
@@ -21,6 +20,8 @@
 	width: 20rem;
 	height: 18rem;
 	object-fit: cover;
+  border-radius: 1rem;
+
   }
 
   

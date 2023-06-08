@@ -29,7 +29,7 @@
       ],
       "githubUrl": "https://github.com/Recoded-Spark-Turkey-2022/CodyBrains",
       "liveUrl": "https://www.w3schools.com/html/",
-      "image": "./images/refubook.jpg",
+      "image": "/images/refubook.jpg",
       "alt": "Refugee Blog Page"
     },
     {
@@ -61,7 +61,7 @@
       ],
       "githubUrl": "https://github.com/yusufie/hangman-nobody-is-perfect-demo",
       "liveUrl": "https://www.w3schools.com/html/",
-      "image": "./images/hangmangame.jpg",
+      "image": "/images/hangmangame.jpg",
       "alt": "Hangman Game"
     },
     {
@@ -93,7 +93,7 @@
       ],
       "githubUrl": "https://github.com/Recoded-Spark-Turkey-2022/movie-project-playing-our-way",
       "liveUrl": "https://www.w3schools.com/html/",
-      "image": "./images/moviejs.jpg",
+      "image": "/images/moviejs.jpg",
       "alt": "Movie Page"
     },
     {
@@ -125,7 +125,7 @@
       ],
       "githubUrl": "https://github.com/yusufie/mad-libs-callthepolice-demo",
       "liveUrl": "https://www.w3schools.com/html/",
-      "image": "./images/madlibspoliceman.jpg",
+      "image": "/images/madlibspoliceman.jpg",
       "alt": "Portfolio"
     },
     {
@@ -157,7 +157,7 @@
       ],
       "githubUrl": "https://github.com/yusufie/nested-comment-react-glassmorphism-task",
       "liveUrl": "https://www.w3schools.com/html/",
-      "image": "./images/nestedcomment.png",
+      "image": "/images/nestedcomment.png",
       "alt": "Portfolio"
     },
     {
@@ -189,7 +189,7 @@
       ],
       "githubUrl": "https://github.com/yusufie/patika-dev/tree/main/javascript/asian-kitchens-menu-object",
       "liveUrl": "https://www.w3schools.com/html/",
-      "image": "./images/asiankitchensmenu.png",
+      "image": "/images/asiankitchensmenu.png",
       "alt": "Portfolio"
     },
     {
@@ -221,7 +221,7 @@
       ],
       "githubUrl": "https://github.com/yusufie/patika-dev/tree/main/kodluyoruzilkrepo/linkedin-clone",
       "liveUrl": "https://www.w3schools.com/html/",
-      "image": "./images/linkedinclone.png",
+      "image": "/images/linkedinclone.png",
       "alt": "Portfolio"
     },
     {
@@ -253,7 +253,7 @@
       ],
       "githubUrl": "https://github.com/yusufie/tribute-page-freecodecamp",
       "liveUrl": "https://www.w3schools.com/html/",
-      "image": "./images/tributepage.jpg",
+      "image": "/images/tributepage.jpg",
       "alt": "Tribute Page"
     },
     {
@@ -285,7 +285,7 @@
       ],
       "githubUrl": "https://github.com/yusufie/portfolio-template-download-cv-dark-mode",
       "liveUrl": "https://www.w3schools.com/html/",
-      "image": "./images/portfoliopage.png",
+      "image": "/images/portfoliopage.png",
       "alt": "Portfolio"
     }
   ]

@@ -4,7 +4,7 @@
         "id": 1,
         "url": "https://www.linkedin.com/in/yusufaknar/",
         "logo": "./logos/linkedin-logo.svg",
-        "preview": "./images/linkedin-preview.png",
+        "preview": "/images/linkedin-preview.png",
         "name": "LinkedIn",
         "alt": "linkedin"
       },
@@ -12,7 +12,7 @@
         "id": 2,
         "url": "https://github.com/yusufie",
         "logo": "./logos/github-logo.svg",
-        "preview": "./images/github-preview.png",
+        "preview": "/images/github-preview.png",
         "name": "GitHub",
         "alt": "Github"
       },
@@ -20,7 +20,7 @@
         "id": 3,
         "url": "https://www.w3profile.com/yusufie",
         "logo": "./logos/w3schools-logo.svg",
-        "preview": "./images/w3schools-preview.png",
+        "preview": "/images/w3schools-preview.png",
         "name": "W3Schools",
         "alt": "w3schools"
       },
@@ -28,7 +28,7 @@
         "id": 4,
         "url": "https://www.freecodecamp.org/yusufie",
         "logo": "./logos/freecodecamp-logo.svg",
-        "preview": "./images/freecodecamp-preview.png",
+        "preview": "/images/freecodecamp-preview.png",
         "name": "freeCodeCamp",
         "alt": "freecodecamp"
       },
@@ -36,7 +36,7 @@
         "id": 5,
         "url": "https://www.hackerrank.com/yusufie",
         "logo": "./logos/hackerrank-logo.svg",
-        "preview": "./images/hackerrank-preview.png",
+        "preview": "/images/hackerrank-preview.png",
         "name": "HackerRank",
         "alt": "hackerrank"
       },
@@ -44,7 +44,7 @@
         "id": 6,
         "url": "https://coderbyte.com/profile/yusufie",
         "logo": "./logos/coderbyte-logo.svg",
-        "preview": "./images/coderbyte-preview.png",
+        "preview": "/images/coderbyte-preview.png",
         "name": "CoderByte",
         "alt": "coderbyte"
       },
@@ -52,7 +52,7 @@
         "id": 7,
         "url": "https://www.codewars.com/users/yusufie",
         "logo": "./logos/codewars-logo.svg",
-        "preview": "./images/codewars-preview.png",
+        "preview": "/images/codewars-preview.png",
         "name": "CodeWars",
         "alt": "codewars"
       },
@@ -60,7 +60,7 @@
         "id": 8,
         "url": "https://leetcode.com/yusufie/",
         "logo": "./logos/leetcode-logo.svg",
-        "preview": "./images/leetcode-preview.png",
+        "preview": "/images/leetcode-preview.png",
         "name": "LeetCode",
         "alt": "leetcode"
       },
@@ -68,7 +68,7 @@
         "id": 9,
         "url": "https://stackoverflow.com/users/19926018/yusufie",
         "logo": "./logos/stackoverflow-logo.svg",
-        "preview": "./images/stackoverflow-preview.png",
+        "preview": "/images/stackoverflow-preview.png",
         "name": "StackOverflow",
         "alt": "stackoverflow"
       }

@@ -1,10 +1,11 @@
 import React from "react";
+import Link from "next/link";
+import Image from "next/image";
 
 import skillData from "/public/datas/skillData.json";
 
 import styles from "./page.module.css"
 import "../globals.css";
-import Link from "next/link";
 
 function Skills() {
   return (
@@ -22,9 +23,11 @@ function Skills() {
                   className={styles.skillsItem}
                 >
               <div className={styles.skillCard}>
-                <img
+                <Image
                   src={skill.logo}
                   alt={skill.alt}
+                  width={64}
+                  height={64}
                   className={styles.skillCardImage}
                 />
                 <span className={styles.skillName}>{skill.name}</span>
