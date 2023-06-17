@@ -226,8 +226,8 @@
     },
     {
       "id": 8,
-      "name": "Tribute Page",
-      "description": "This is Tribute Page",
+      "name": "Filter Events",
+      "description": "This is Filter Events",
       "stack": [
         {
           "id": 1,
@@ -251,10 +251,10 @@
           "alt": "Figma"
         }
       ],
-      "githubUrl": "https://github.com/yusufie/tribute-page-freecodecamp",
-      "liveUrl": "https://www.w3schools.com/html/",
-      "image": "/images/tributepage.jpg",
-      "alt": "Tribute Page"
+      "githubUrl": "https://github.com/yusufie/nextjs-filter-theater",
+      "liveUrl": "https://nextjs-filter-theater.vercel.app/",
+      "image": "/images/filter-theatre.png",
+      "alt": "Filter Events"
     },
     {
       "id": 9,
