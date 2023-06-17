@@ -4,6 +4,10 @@
       "id": 1,
       "name": "Refugee Blog Page",
       "description": "Refugee Blog Page",
+      "githubUrl": "https://github.com/Recoded-Spark-Turkey-2022/CodyBrains",
+      "liveUrl": "https://www.w3schools.com/html/",
+      "image": "/images/refubook.jpg",
+      "alt": "Refugee Blog Page",
       "stack": [
         {
           "id": 1,
@@ -18,24 +22,17 @@
           "logo": "./logos/tailwind-logo.svg",
           "name": "Tailwind",
           "alt": "Tailwind"
-        },
-        {
-          "id": 3,
-          "url": "https://www.figma.com/",
-          "logo": "./logos/figma-logo.svg",
-          "name": "Figma",
-          "alt": "Figma"
         }
-      ],
-      "githubUrl": "https://github.com/Recoded-Spark-Turkey-2022/CodyBrains",
-      "liveUrl": "https://www.w3schools.com/html/",
-      "image": "/images/refubook.jpg",
-      "alt": "Refugee Blog Page"
+      ]
     },
     {
       "id": 2,
       "name": "Hangman Game",
       "description": "This is Hangman Game",
+      "githubUrl": "https://github.com/yusufie/hangman-nobody-is-perfect-demo",
+      "liveUrl": "https://www.w3schools.com/html/",
+      "image": "/images/hangmangame.jpg",
+      "alt": "Hangman Game",
       "stack": [
         {
           "id": 1,
@@ -50,24 +47,17 @@
           "logo": "./logos/tailwind-logo.svg",
           "name": "Tailwind",
           "alt": "Tailwind"
-        },
-        {
-          "id": 3,
-          "url": "https://www.figma.com/",
-          "logo": "./logos/figma-logo.svg",
-          "name": "Figma",
-          "alt": "Figma"
         }
-      ],
-      "githubUrl": "https://github.com/yusufie/hangman-nobody-is-perfect-demo",
-      "liveUrl": "https://www.w3schools.com/html/",
-      "image": "/images/hangmangame.jpg",
-      "alt": "Hangman Game"
+      ]
     },
     {
       "id": 3,
       "name": "Movie Page JS",
       "description": "This is Movie Page JS",
+      "githubUrl": "https://github.com/Recoded-Spark-Turkey-2022/movie-project-playing-our-way",
+      "liveUrl": "https://www.w3schools.com/html/",
+      "image": "/images/moviejs.jpg",
+      "alt": "Movie Page",
       "stack": [
         {
           "id": 1,
@@ -82,24 +72,17 @@
           "logo": "./logos/tailwind-logo.svg",
           "name": "Tailwind",
           "alt": "Tailwind"
-        },
-        {
-          "id": 3,
-          "url": "https://www.figma.com/",
-          "logo": "./logos/figma-logo.svg",
-          "name": "Figma",
-          "alt": "Figma"
         }
-      ],
-      "githubUrl": "https://github.com/Recoded-Spark-Turkey-2022/movie-project-playing-our-way",
-      "liveUrl": "https://www.w3schools.com/html/",
-      "image": "/images/moviejs.jpg",
-      "alt": "Movie Page"
+      ]
     },
     {
       "id": 4,
       "name": "Mad Libs Policeman",
       "description": "This is Mad Libs Policeman",
+      "githubUrl": "https://github.com/yusufie/mad-libs-callthepolice-demo",
+      "liveUrl": "https://www.w3schools.com/html/",
+      "image": "/images/madlibspoliceman.jpg",
+      "alt": "Portfolio",
       "stack": [
         {
           "id": 1,
@@ -114,24 +97,17 @@
           "logo": "./logos/tailwind-logo.svg",
           "name": "Tailwind",
           "alt": "Tailwind"
-        },
-        {
-          "id": 3,
-          "url": "https://www.figma.com/",
-          "logo": "./logos/figma-logo.svg",
-          "name": "Figma",
-          "alt": "Figma"
         }
-      ],
-      "githubUrl": "https://github.com/yusufie/mad-libs-callthepolice-demo",
-      "liveUrl": "https://www.w3schools.com/html/",
-      "image": "/images/madlibspoliceman.jpg",
-      "alt": "Portfolio"
+      ]
     },
     {
       "id": 5,
       "name": "Nested Comment",
       "description": "This is Nested Comment",
+      "githubUrl": "https://github.com/yusufie/nested-comment-react-glassmorphism-task",
+      "liveUrl": "https://www.w3schools.com/html/",
+      "image": "/images/nestedcomment.png",
+      "alt": "Portfolio",
       "stack": [
         {
           "id": 1,
@@ -146,24 +122,17 @@
           "logo": "./images/tailwind-logo.svg",
           "name": "Tailwind",
           "alt": "Tailwind"
-        },
-        {
-          "id": 3,
-          "url": "https://www.figma.com/",
-          "logo": "./images/figma-logo.svg",
-          "name": "Figma",
-          "alt": "Figma"
         }
-      ],
-      "githubUrl": "https://github.com/yusufie/nested-comment-react-glassmorphism-task",
-      "liveUrl": "https://www.w3schools.com/html/",
-      "image": "/images/nestedcomment.png",
-      "alt": "Portfolio"
+      ]
     },
     {
       "id": 6,
       "name": "Asian Kitchens Menu.png",
       "description": "Asian Kitchens Menu",
+      "githubUrl": "https://github.com/yusufie/patika-dev/tree/main/javascript/asian-kitchens-menu-object",
+      "liveUrl": "https://www.w3schools.com/html/",
+      "image": "/images/asiankitchensmenu.png",
+      "alt": "Portfolio",
       "stack": [
         {
           "id": 1,
@@ -178,24 +147,17 @@
           "logo": "./logos/tailwind-logo.svg",
           "name": "Tailwind",
           "alt": "Tailwind"
-        },
-        {
-          "id": 3,
-          "url": "https://www.figma.com/",
-          "logo": "./logos/figma-logo.svg",
-          "name": "Figma",
-          "alt": "Figma"
         }
-      ],
-      "githubUrl": "https://github.com/yusufie/patika-dev/tree/main/javascript/asian-kitchens-menu-object",
-      "liveUrl": "https://www.w3schools.com/html/",
-      "image": "/images/asiankitchensmenu.png",
-      "alt": "Portfolio"
+      ]
     },
     {
       "id": 7,
       "name": "LinkedIn Clone",
       "description": "This is LinkedIn Clone",
+      "githubUrl": "https://github.com/yusufie/patika-dev/tree/main/kodluyoruzilkrepo/linkedin-clone",
+      "liveUrl": "https://www.w3schools.com/html/",
+      "image": "/images/linkedinclone.png",
+      "alt": "Portfolio",
       "stack": [
         {
           "id": 1,
@@ -210,56 +172,17 @@
           "logo": "./logos/tailwind-logo.svg",
           "name": "Tailwind",
           "alt": "Tailwind"
-        },
-        {
-          "id": 3,
-          "url": "https://www.figma.com/",
-          "logo": "./logos/figma-logo.svg",
-          "name": "Figma",
-          "alt": "Figma"
         }
-      ],
-      "githubUrl": "https://github.com/yusufie/patika-dev/tree/main/kodluyoruzilkrepo/linkedin-clone",
-      "liveUrl": "https://www.w3schools.com/html/",
-      "image": "/images/linkedinclone.png",
-      "alt": "Portfolio"
+      ]
     },
     {
       "id": 8,
       "name": "Filter Events",
       "description": "This is Filter Events",
-      "stack": [
-        {
-          "id": 1,
-          "url": "https://reactjs.org/",
-          "logo": "./logos/react-logo.svg",
-          "name": "React",
-          "alt": "React"
-        },
-        {
-          "id": 2,
-          "url": "https://tailwindcss.com/",
-          "logo": "./logos/tailwind-logo.svg",
-          "name": "Tailwind",
-          "alt": "Tailwind"
-        },
-        {
-          "id": 3,
-          "url": "https://www.figma.com/",
-          "logo": "./logos/figma-logo.svg",
-          "name": "Figma",
-          "alt": "Figma"
-        }
-      ],
       "githubUrl": "https://github.com/yusufie/nextjs-filter-theater",
       "liveUrl": "https://nextjs-filter-theater.vercel.app/",
       "image": "/images/filter-theatre.png",
-      "alt": "Filter Events"
-    },
-    {
-      "id": 9,
-      "name": "Portfolio Website",
-      "description": "This is my portfolio.",
+      "alt": "Filter Events",
       "stack": [
         {
           "id": 1,
@@ -274,19 +197,33 @@
           "logo": "./logos/tailwind-logo.svg",
           "name": "Tailwind",
           "alt": "Tailwind"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Vue Films",
+      "description": "This is Vue Films",
+      "githubUrl": "https://github.com/yusufie/vue-films",
+      "liveUrl": "https://vue-films.vercel.app/",
+      "image": "/images/vue-films.png",
+      "alt": "Vue Films",
+      "stack": [
+        {
+          "id": 1,
+          "url": "https://reactjs.org/",
+          "logo": "./logos/react-logo.svg",
+          "name": "React",
+          "alt": "React"
         },
         {
-          "id": 3,
-          "url": "https://www.figma.com/",
-          "logo": "./logos/figma-logo.svg",
-          "name": "Figma",
-          "alt": "Figma"
+          "id": 2,
+          "url": "https://tailwindcss.com/",
+          "logo": "./logos/tailwind-logo.svg",
+          "name": "Tailwind",
+          "alt": "Tailwind"
         }
-      ],
-      "githubUrl": "https://github.com/yusufie/portfolio-template-download-cv-dark-mode",
-      "liveUrl": "https://www.w3schools.com/html/",
-      "image": "/images/portfoliopage.png",
-      "alt": "Portfolio"
+      ]
     }
   ]
 }
