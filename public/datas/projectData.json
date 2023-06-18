@@ -52,12 +52,12 @@
     },
     {
       "id": 3,
-      "name": "Movie Page JS",
-      "description": "This is Movie Page JS",
-      "githubUrl": "https://github.com/Recoded-Spark-Turkey-2022/movie-project-playing-our-way",
-      "liveUrl": "https://recoded-spark-turkey-2022.github.io/movie-project-playing-our-way/",
-      "image": "/images/moviejs.jpg",
-      "alt": "Movie Page",
+      "name": "Movie Playing",
+      "description": "This is Movie Playing",
+      "githubUrl": "https://github.com/yusufie/movie-playing",
+      "liveUrl": "https://movie-playing.vercel.app/",
+      "image": "/images/movie-playing.png",
+      "alt": "Movie Playing",
       "stack": [
         {
           "id": 1,
