@@ -5,23 +5,23 @@
       "name": "Refugee Blog Page",
       "description": "Refugee Blog Page",
       "githubUrl": "https://github.com/Recoded-Spark-Turkey-2022/CodyBrains",
-      "liveUrl": "https://www.w3schools.com/html/",
+      "liveUrl": "https://codybrains-refubook.netlify.app/",
       "image": "/images/refubook.jpg",
       "alt": "Refugee Blog Page",
       "stack": [
         {
           "id": 1,
-          "url": "https://reactjs.org/",
-          "logo": "./logos/react-logo.svg",
-          "name": "React",
-          "alt": "React"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         },
         {
           "id": 2,
-          "url": "https://tailwindcss.com/",
-          "logo": "./logos/tailwind-logo.svg",
-          "name": "Tailwind",
-          "alt": "Tailwind"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         }
       ]
     },
@@ -30,23 +30,23 @@
       "name": "Hangman Game",
       "description": "This is Hangman Game",
       "githubUrl": "https://github.com/yusufie/hangman-nobody-is-perfect-demo",
-      "liveUrl": "https://www.w3schools.com/html/",
+      "liveUrl": "https://hangman-nobody-is-perfect-demo.vercel.app/",
       "image": "/images/hangmangame.jpg",
       "alt": "Hangman Game",
       "stack": [
         {
           "id": 1,
-          "url": "https://reactjs.org/",
-          "logo": "./logos/react-logo.svg",
-          "name": "React",
-          "alt": "React"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         },
         {
           "id": 2,
-          "url": "https://tailwindcss.com/",
-          "logo": "./logos/tailwind-logo.svg",
-          "name": "Tailwind",
-          "alt": "Tailwind"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         }
       ]
     },
@@ -55,23 +55,23 @@
       "name": "Movie Page JS",
       "description": "This is Movie Page JS",
       "githubUrl": "https://github.com/Recoded-Spark-Turkey-2022/movie-project-playing-our-way",
-      "liveUrl": "https://www.w3schools.com/html/",
+      "liveUrl": "https://recoded-spark-turkey-2022.github.io/movie-project-playing-our-way/",
       "image": "/images/moviejs.jpg",
       "alt": "Movie Page",
       "stack": [
         {
           "id": 1,
-          "url": "https://reactjs.org/",
-          "logo": "./logos/react-logo.svg",
-          "name": "React",
-          "alt": "React"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         },
         {
           "id": 2,
-          "url": "https://tailwindcss.com/",
-          "logo": "./logos/tailwind-logo.svg",
-          "name": "Tailwind",
-          "alt": "Tailwind"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         }
       ]
     },
@@ -80,23 +80,23 @@
       "name": "Mad Libs Policeman",
       "description": "This is Mad Libs Policeman",
       "githubUrl": "https://github.com/yusufie/mad-libs-callthepolice-demo",
-      "liveUrl": "https://www.w3schools.com/html/",
+      "liveUrl": "https://yusufie.github.io/mad-libs-callthepolice-demo/",
       "image": "/images/madlibspoliceman.jpg",
       "alt": "Portfolio",
       "stack": [
         {
           "id": 1,
-          "url": "https://reactjs.org/",
-          "logo": "./logos/react-logo.svg",
-          "name": "React",
-          "alt": "React"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         },
         {
           "id": 2,
-          "url": "https://tailwindcss.com/",
-          "logo": "./logos/tailwind-logo.svg",
-          "name": "Tailwind",
-          "alt": "Tailwind"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         }
       ]
     },
@@ -105,23 +105,23 @@
       "name": "Nested Comment",
       "description": "This is Nested Comment",
       "githubUrl": "https://github.com/yusufie/nested-comment-react-glassmorphism-task",
-      "liveUrl": "https://www.w3schools.com/html/",
+      "liveUrl": "https://github.com/yusufie/nested-comment-react-glassmorphism-task",
       "image": "/images/nestedcomment.png",
       "alt": "Portfolio",
       "stack": [
         {
           "id": 1,
-          "url": "https://reactjs.org/",
-          "logo": "./logos/react-logo.svg",
-          "name": "React",
-          "alt": "React"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         },
         {
           "id": 2,
-          "url": "https://tailwindcss.com/",
-          "logo": "./images/tailwind-logo.svg",
-          "name": "Tailwind",
-          "alt": "Tailwind"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         }
       ]
     },
@@ -129,24 +129,24 @@
       "id": 6,
       "name": "Asian Kitchens Menu.png",
       "description": "Asian Kitchens Menu",
-      "githubUrl": "https://github.com/yusufie/patika-dev/tree/main/javascript/asian-kitchens-menu-object",
-      "liveUrl": "https://www.w3schools.com/html/",
+      "githubUrl": "https://github.com/yusufie/kitchen-menu-asian",
+      "liveUrl": "https://kitchen-menu-asian.vercel.app/",
       "image": "/images/asiankitchensmenu.png",
       "alt": "Portfolio",
       "stack": [
         {
           "id": 1,
-          "url": "https://reactjs.org/",
-          "logo": "./logos/react-logo.svg",
-          "name": "React",
-          "alt": "React"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         },
         {
           "id": 2,
-          "url": "https://tailwindcss.com/",
-          "logo": "./logos/tailwind-logo.svg",
-          "name": "Tailwind",
-          "alt": "Tailwind"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         }
       ]
     },
@@ -155,23 +155,23 @@
       "name": "LinkedIn Clone",
       "description": "This is LinkedIn Clone",
       "githubUrl": "https://github.com/yusufie/patika-dev/tree/main/kodluyoruzilkrepo/linkedin-clone",
-      "liveUrl": "https://www.w3schools.com/html/",
+      "liveUrl": "https://github.com/yusufie/patika-dev/tree/main/kodluyoruzilkrepo/linkedin-clone",
       "image": "/images/linkedinclone.png",
       "alt": "Portfolio",
       "stack": [
         {
           "id": 1,
-          "url": "https://reactjs.org/",
-          "logo": "./logos/react-logo.svg",
-          "name": "React",
-          "alt": "React"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         },
         {
           "id": 2,
-          "url": "https://tailwindcss.com/",
-          "logo": "./logos/tailwind-logo.svg",
-          "name": "Tailwind",
-          "alt": "Tailwind"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         }
       ]
     },
@@ -186,17 +186,17 @@
       "stack": [
         {
           "id": 1,
-          "url": "https://reactjs.org/",
-          "logo": "./logos/react-logo.svg",
-          "name": "React",
-          "alt": "React"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         },
         {
           "id": 2,
-          "url": "https://tailwindcss.com/",
-          "logo": "./logos/tailwind-logo.svg",
-          "name": "Tailwind",
-          "alt": "Tailwind"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         }
       ]
     },
@@ -211,17 +211,17 @@
       "stack": [
         {
           "id": 1,
-          "url": "https://reactjs.org/",
-          "logo": "./logos/react-logo.svg",
-          "name": "React",
-          "alt": "React"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         },
         {
           "id": 2,
-          "url": "https://tailwindcss.com/",
-          "logo": "./logos/tailwind-logo.svg",
-          "name": "Tailwind",
-          "alt": "Tailwind"
+          "url": "",
+          "logo": "",
+          "name": "",
+          "alt": ""
         }
       ]
     }

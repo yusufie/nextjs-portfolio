@@ -59,27 +59,37 @@ function Projects() {
               },
         }}
 
-        className={styles.swiper}
+        className="swiper"
 
       >
 
         {projectData.projects.map((project) => (
-          <SwiperSlide className={styles.swiperSlide} key={project.id}>
+          <SwiperSlide className="swiperSlide" key={project.id}>
 
           <Tilt options={{ max: 35, perspective: 1550, scale: 1.00, speed: 300, easing: "cubic-bezier(.06,.97,.63,.95)", transition: true, }}>
-            <div className="projectCard">
+            <div className={styles.projectCard}>
 
-              <div className={styles.projectCardImage}>
-                <Link key={project.id} href={project.githubUrl} target="_blank" className="projectCardLink">
+              <div key={project.id} className={styles.projectCardImage} >
                   <Image 
                   src={project.image} 
                   alt={project.alt} 
                   width={320} 
                   height={288} 
-                  className={styles.swiperSlideImg} 
+                  className="swiperSlideImg"
                   priority
                   />
+              </div>
+
+              <div className={styles.projectLinks}>
+
+                <Link href={project.githubUrl} target="_blank">
+                  <Image src="./logos/repo-icon.svg" width={36} height={36} alt="repo" className={styles.repoLink} />
                 </Link>
+
+                <Link href={project.liveUrl} target="_blank">
+                  <Image src="./logos/world-icon.svg" width={36} height={36} alt="world" className={styles.worldLink} />
+                </Link>
+
               </div>
 
             </div>
