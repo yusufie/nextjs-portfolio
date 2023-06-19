@@ -29,7 +29,7 @@ function Projects() {
 
       <Swiper
         slidesPerView={3}
-        spaceBetween={10}
+        // spaceBetween={10}
         loop={true}
         pagination={{
           clickable: true,
@@ -39,23 +39,18 @@ function Projects() {
         breakpoints={{
           320: {
                 slidesPerView: 1,
-                spaceBetween: 20,
               },
               768: {
                 slidesPerView: 2,
-                spaceBetween: 20,
               },
               1024: {
                 slidesPerView: 3,
-                spaceBetween: 20,
               },
               1440: {
                 slidesPerView: 4,
-                spaceBetween: 20,
               },
               2560: {
                 slidesPerView: 5,
-                spaceBetween: 20,
               },
         }}
 
@@ -73,8 +68,8 @@ function Projects() {
                   <Image 
                   src={project.image} 
                   alt={project.alt} 
-                  width={320} 
-                  height={288} 
+                  width={350} 
+                  height={300} 
                   className="swiperSlideImg"
                   priority
                   />
