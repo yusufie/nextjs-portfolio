@@ -102,12 +102,12 @@
     },
     {
       "id": 5,
-      "name": "Nested Comment",
-      "description": "This is Nested Comment",
-      "githubUrl": "https://github.com/yusufie/nested-comment-react-glassmorphism-task",
-      "liveUrl": "https://github.com/yusufie/nested-comment-react-glassmorphism-task",
-      "image": "/images/nestedcomment.png",
-      "alt": "Portfolio",
+      "name": "Verlith Design",
+      "description": "This is Verlith Design",
+      "githubUrl": "https://github.com/yusufie/verlith-design",
+      "liveUrl": "https://verlith-design.vercel.app/",
+      "image": "/images/verlith-design.png",
+      "alt": "Verlith Design",
       "stack": [
         {
           "id": 1,
