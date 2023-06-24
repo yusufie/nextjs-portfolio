@@ -8,22 +8,9 @@
       "liveUrl": "https://codybrains-refubook.netlify.app/",
       "image": "/images/refubook.jpg",
       "alt": "Refugee Blog Page",
-      "stack": [
-        {
-          "id": 1,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        }
-      ]
+      "stack":  [ { "id": 1, "logo": "", "name": "", "alt": "" },
+                  { "id": 1, "logo": "", "name": "", "alt": "" }
+                ]
     },
     {
       "id": 2,
@@ -33,47 +20,21 @@
       "liveUrl": "https://hangman-nobody-is-perfect-demo.vercel.app/",
       "image": "/images/hangmangame.jpg",
       "alt": "Hangman Game",
-      "stack": [
-        {
-          "id": 1,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        }
-      ]
+      "stack":  [ { "id": 1, "logo": "", "name": "", "alt": "" },
+                  { "id": 1, "logo": "", "name": "", "alt": "" }
+                ]
     },
     {
       "id": 3,
-      "name": "Movie Playing",
-      "description": "This is Movie Playing",
-      "githubUrl": "https://github.com/yusufie/movie-playing",
-      "liveUrl": "https://movie-playing.vercel.app/",
-      "image": "/images/movie-playing.png",
-      "alt": "Movie Playing",
-      "stack": [
-        {
-          "id": 1,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        }
-      ]
+      "name": "Users Dashboard",
+      "description": "This is Users Dashboard",
+      "githubUrl": "https://github.com/yusufie/users-dashboard",
+      "liveUrl": "https://users-dashboard-next.vercel.app/",
+      "image": "/images/users-dashboard.png",
+      "alt": "Users Dashboard",
+      "stack":  [ { "id": 1, "logo": "", "name": "", "alt": "" },
+                  { "id": 1, "logo": "", "name": "", "alt": "" }
+                ]
     },
     {
       "id": 4,
@@ -83,22 +44,9 @@
       "liveUrl": "https://yusufie.github.io/mad-libs-callthepolice-demo/",
       "image": "/images/madlibspoliceman.jpg",
       "alt": "Portfolio",
-      "stack": [
-        {
-          "id": 1,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        }
-      ]
+      "stack":  [ { "id": 1, "logo": "", "name": "", "alt": "" },
+                  { "id": 1, "logo": "", "name": "", "alt": "" }
+                ]
     },
     {
       "id": 5,
@@ -108,22 +56,9 @@
       "liveUrl": "https://verlith-design.vercel.app/",
       "image": "/images/verlith-design.png",
       "alt": "Verlith Design",
-      "stack": [
-        {
-          "id": 1,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        }
-      ]
+      "stack":  [ { "id": 1, "logo": "", "name": "", "alt": "" },
+                  { "id": 1, "logo": "", "name": "", "alt": "" }
+                ]
     },
     {
       "id": 6,
@@ -133,47 +68,21 @@
       "liveUrl": "https://kitchen-menu-asian.vercel.app/",
       "image": "/images/asiankitchensmenu.png",
       "alt": "Portfolio",
-      "stack": [
-        {
-          "id": 1,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        }
-      ]
+      "stack":  [ { "id": 1, "logo": "", "name": "", "alt": "" },
+                  { "id": 1, "logo": "", "name": "", "alt": "" }
+                ]
     },
     {
       "id": 7,
-      "name": "LinkedIn Clone",
-      "description": "This is LinkedIn Clone",
-      "githubUrl": "https://github.com/yusufie/patika-dev/tree/main/kodluyoruzilkrepo/linkedin-clone",
-      "liveUrl": "https://github.com/yusufie/patika-dev/tree/main/kodluyoruzilkrepo/linkedin-clone",
-      "image": "/images/linkedinclone.png",
-      "alt": "Portfolio",
-      "stack": [
-        {
-          "id": 1,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        }
-      ]
+      "name": "Movie Playing",
+      "description": "This is Movie Playing",
+      "githubUrl": "https://github.com/yusufie/movie-playing",
+      "liveUrl": "https://movie-playing.vercel.app/",
+      "image": "/images/movie-playing.png",
+      "alt": "Movie Playing",
+      "stack":  [ { "id": 1, "logo": "", "name": "", "alt": "" },
+                  { "id": 1, "logo": "", "name": "", "alt": "" }
+                ]
     },
     {
       "id": 8,
@@ -183,22 +92,9 @@
       "liveUrl": "https://nextjs-filter-theater.vercel.app/",
       "image": "/images/filter-theatre.png",
       "alt": "Filter Events",
-      "stack": [
-        {
-          "id": 1,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        }
-      ]
+      "stack":  [ { "id": 1, "logo": "", "name": "", "alt": "" },
+                  { "id": 1, "logo": "", "name": "", "alt": "" }
+                ]
     },
     {
       "id": 9,
@@ -208,22 +104,9 @@
       "liveUrl": "https://vue-films.vercel.app/",
       "image": "/images/vue-films.png",
       "alt": "Vue Films",
-      "stack": [
-        {
-          "id": 1,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        },
-        {
-          "id": 2,
-          "url": "",
-          "logo": "",
-          "name": "",
-          "alt": ""
-        }
-      ]
+      "stack":  [ { "id": 1, "logo": "", "name": "", "alt": "" },
+                  { "id": 1, "logo": "", "name": "", "alt": "" }
+                ]
     }
   ]
 }
