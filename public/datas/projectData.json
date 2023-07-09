@@ -50,6 +50,18 @@
     },
     {
       "id": 5,
+      "name": "Students Dashboard",
+      "description": "This is Students Dashboard",
+      "githubUrl": "https://github.com/yusufie/students-dashboard",
+      "liveUrl": "https://students-dashboard-flame.vercel.app/",
+      "image": "/images/students-dashboard.png",
+      "alt": "Students Dashboard",
+      "stack":  [ { "id": 1, "logo": "", "name": "", "alt": "" },
+                  { "id": 1, "logo": "", "name": "", "alt": "" }
+                ]
+    },
+    {
+      "id": 6,
       "name": "Verlith Design",
       "description": "This is Verlith Design",
       "githubUrl": "https://github.com/yusufie/verlith-design",
@@ -61,7 +73,7 @@
                 ]
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Asian Kitchens Menu.png",
       "description": "Asian Kitchens Menu",
       "githubUrl": "https://github.com/yusufie/kitchen-menu-asian",
@@ -73,7 +85,7 @@
                 ]
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Movie Playing",
       "description": "This is Movie Playing",
       "githubUrl": "https://github.com/yusufie/movie-playing",
@@ -85,7 +97,7 @@
                 ]
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Filter Events",
       "description": "This is Filter Events",
       "githubUrl": "https://github.com/yusufie/nextjs-filter-theater",
@@ -97,7 +109,7 @@
                 ]
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "Vue Films",
       "description": "This is Vue Films",
       "githubUrl": "https://github.com/yusufie/vue-films",
