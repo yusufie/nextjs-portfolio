@@ -2,6 +2,18 @@
   "projects": [
     {
       "id": 1,
+      "name": "Weathers Anatolia",
+      "description": "This is Weathers Anatolia",
+      "githubUrl": "https://github.com/yusufie/weathers-anatolia",
+      "liveUrl": "https://weathers-anatolia.vercel.app/",
+      "image": "/images/weathers-anatolia.png",
+      "alt": "Weathers Anatolia",
+      "stack":  [ { "id": 1, "logo": "", "name": "", "alt": "" },
+                  { "id": 1, "logo": "", "name": "", "alt": "" }
+                ]
+    },
+    {
+      "id": 2,
       "name": "Refugee Blog Page",
       "description": "Refugee Blog Page",
       "githubUrl": "https://github.com/Recoded-Spark-Turkey-2022/CodyBrains",
@@ -13,7 +25,7 @@
                 ]
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Hangman Game",
       "description": "This is Hangman Game",
       "githubUrl": "https://github.com/yusufie/hangman-nobody-is-perfect-demo",
@@ -25,7 +37,7 @@
                 ]
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Users Dashboard",
       "description": "This is Users Dashboard",
       "githubUrl": "https://github.com/yusufie/users-dashboard",
@@ -37,7 +49,7 @@
                 ]
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Mad Libs Policeman",
       "description": "This is Mad Libs Policeman",
       "githubUrl": "https://github.com/yusufie/mad-libs-callthepolice-demo",
@@ -49,7 +61,7 @@
                 ]
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Students Dashboard",
       "description": "This is Students Dashboard",
       "githubUrl": "https://github.com/yusufie/students-dashboard",
@@ -61,7 +73,7 @@
                 ]
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Verlith Design",
       "description": "This is Verlith Design",
       "githubUrl": "https://github.com/yusufie/verlith-design",
@@ -73,7 +85,7 @@
                 ]
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Asian Kitchens Menu.png",
       "description": "Asian Kitchens Menu",
       "githubUrl": "https://github.com/yusufie/kitchen-menu-asian",
@@ -85,7 +97,7 @@
                 ]
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Movie Playing",
       "description": "This is Movie Playing",
       "githubUrl": "https://github.com/yusufie/movie-playing",
@@ -97,7 +109,7 @@
                 ]
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "Filter Events",
       "description": "This is Filter Events",
       "githubUrl": "https://github.com/yusufie/nextjs-filter-theater",
@@ -109,7 +121,7 @@
                 ]
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "Vue Films",
       "description": "This is Vue Films",
       "githubUrl": "https://github.com/yusufie/vue-films",
