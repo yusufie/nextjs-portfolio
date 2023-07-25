@@ -85,18 +85,6 @@
                 ]
     },
     {
-      "id": 8,
-      "name": "Verlith Design",
-      "description": "This is Verlith Design",
-      "githubUrl": "https://github.com/yusufie/verlith-design",
-      "liveUrl": "https://verlith-design.vercel.app/",
-      "image": "/images/verlith-design.png",
-      "alt": "Verlith Design",
-      "stack":  [ { "id": 1, "logo": "", "name": "", "alt": "" },
-                  { "id": 1, "logo": "", "name": "", "alt": "" }
-                ]
-    },
-    {
       "id": 9,
       "name": "Asian Kitchens Menu.png",
       "description": "Asian Kitchens Menu",
